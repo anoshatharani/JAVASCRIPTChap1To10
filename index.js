@@ -1,55 +1,55 @@
 // // -----------------------------CHAPTER-1----------------------------------
-// // -------------------------------------QUESTION-1------------------------------
-// alert("Error! Please enter a valid password.");
-// // -------------------------------------QUESTION-2------------------------------
-// alert("Welcome to JS Land...\nHappy Coding!");
-// // -------------------------------------QUESTION-3------------------------------
-// alert("Welcome to JS Land...");
-// // -------------------------------------QUESTION-4------------------------------
-// alert("Happy Coding!\n⬜ Prevent this page from creating additional dialogs.");
-// // -------------------------------------QUESTION-5------------------------------
-// alert("Hello... I can run JS through my web browser's console");
-// // -----------------------------CHAPTER-2----------------------------------
-// // -------------------------------------QUESTION-1------------------------------
-// var username = "Anosha";
-// // -------------------------------------QUESTION-2------------------------------
-// var myName = ("Anosha")
-// var FatherName = ("M.Amin")
-// var FullName = myName + FatherName;
-// alert(FullName)
-// // -------------------------------------QUESTION-3------------------------------
-// var message = "Hello World";
-// alert(message)
-// // -------------------------------------QUESTION-4------------------------------
-// var StudentName = "Anosha"
-// alert(StudentName)
-// var Age = "22"
-// alert(Age)
-// var Course = "Certified mobile application development"
-// alert(Course)
-// // -------------------------------------QUESTION-5------------------------------
-// var Food = "Pizza\nPizz\nPiz\nPi\nP";
-// alert(Food);
-// // -------------------------------------QUESTION-6------------------------------
-// var email = "anoshatharani@gmail.com"
-// alert("My email address is " + email);
-// //-------------------------------------QUESTION-7------------------------------
-// var book = " A smarter way to learn JavaScript";
-// alert("I am trying to learn from the note book" + book);
-// // -------------------------------------QUESTION-8------------------------------
-// var dochtml = 'Yah! I can write HTML content through Javascript';
-// alert(dochtml)
-// document.write("<br>" + dochtml);
-// // -------------------------------------QUESTION-9------------------------------
-// var design = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
-// alert(design);
-// // -----------------------------CHAPTER-3----------------------------------
-// // -------------------------------------QUESTION-1------------------------------
-// var age = "22";
-// alert("I am " + age + " years old");
-// // -------------------------------------QUESTION-2------------------------------
-// var visit = "8"
-// alert("You have visited the site " + visit + "times")
+// -------------------------------------QUESTION-1------------------------------
+alert("Error! Please enter a valid password.");
+// -------------------------------------QUESTION-2------------------------------
+alert("Welcome to JS Land...\nHappy Coding!");
+// -------------------------------------QUESTION-3------------------------------
+alert("Welcome to JS Land...");
+// -------------------------------------QUESTION-4------------------------------
+alert("Happy Coding!\n⬜ Prevent this page from creating additional dialogs.");
+// -------------------------------------QUESTION-5------------------------------
+alert("Hello... I can run JS through my web browser's console");
+// -----------------------------CHAPTER-2----------------------------------
+// -------------------------------------QUESTION-1------------------------------
+var username = "Anosha";
+// -------------------------------------QUESTION-2------------------------------
+var myName = ("Anosha")
+var FatherName = ("M.Amin")
+var FullName = myName + FatherName;
+alert(FullName)
+// -------------------------------------QUESTION-3------------------------------
+var message = "Hello World";
+alert(message)
+// -------------------------------------QUESTION-4------------------------------
+var StudentName = "Anosha"
+alert(StudentName)
+var Age = "22"
+alert(Age)
+var Course = "Certified mobile application development"
+alert(Course)
+// -------------------------------------QUESTION-5------------------------------
+var Food = "Pizza\nPizz\nPiz\nPi\nP";
+alert(Food);
+// -------------------------------------QUESTION-6------------------------------
+var email = "anoshatharani@gmail.com"
+alert("My email address is " + email);
+//-------------------------------------QUESTION-7------------------------------
+var book = " A smarter way to learn JavaScript";
+alert("I am trying to learn from the note book" + book);
+// -------------------------------------QUESTION-8------------------------------
+var dochtml = 'Yah! I can write HTML content through Javascript';
+alert(dochtml)
+document.write("<br>" + dochtml);
+// -------------------------------------QUESTION-9------------------------------
+var design = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
+alert(design);
+// -----------------------------CHAPTER-3----------------------------------
+// -------------------------------------QUESTION-1------------------------------
+var age = "22";
+alert("I am " + age + " years old");
+// -------------------------------------QUESTION-2------------------------------
+var visit = "8"
+alert("You have visited the site " + visit + "times")
 // -------------------------------------QUESTION-3------------------------------
 var birthyear = "2002";
 document.write(" <br>My birth year is " + birthyear + "<br>Data type of my declared variable is number <br>");
