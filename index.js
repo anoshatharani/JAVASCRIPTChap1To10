@@ -143,3 +143,4 @@ for (var l = 1; l <= 10; l++) {
 // // -----------------------------------------------QUESTION-4------------------------------
 var celsius = 25
 var fahrenhit = (celsius * 9 / 5) + 32
+document.write(celsius + "°C is " + fahrenhit + "°F" + "<br>");
