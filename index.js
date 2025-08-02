@@ -60,7 +60,8 @@ var quantity = " 4 ";
 document.write(visitor + "ordered " + quantity + product + " on Masarrat-Misbah Makeup.com <br>" )
 // -----------------------------CHAPTER-4----------------------------------
 // -------------------------------------QUESTION-1------------------------------
-// var  answer
+var product = "makeup", product1 = "skincare" , product2 = "haircare"; //1statement and 3 declares
+console.log(product , product1 , product2)
 // --------------------------------------QUESTION-2------------------------------
 // -----------------------5 legal variable names-------------------
 // var num1 , num2numm3 =  
@@ -88,6 +89,22 @@ document.write(visitor + "ordered " + quantity + product + " on Masarrat-Misbah 
 // string hyphen bh use nh honge
 // // var 12334  
 // srf number bh use nh hoga.
+// -------------------------------------QUESTION-3------------------------------
+// -------------------------------A==========================
+document.write("<h1> Rules for naming JS variable </h1> <br>" )
+// -----------------------------B-------------------------------
+var a = " $legalcharacter "
+var b = " _legalcharacter "
+var c = " PascalCase "
+var d = " Snake_Case "
+var e = " pascalCase "
+// -----------------------------C------------------------------
+document.write("Variable must begin with a " + a  + b + c + d  + e +  "<br>")
+// -------------------------------D----------------------------
+document.write("Variable names are case sensitive " +  "<br>")
+// ------------------------------E-------------------------------------
+document.write("Variable names shou;d not be JS character " +  "<br>")
+
 //------------------------CHAPTER-5----------------------------------
 // -------------------------------------QUESTION-1------------------------------
 var num1 = 3
